@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "730095042449",
+    "firebase_url": "https://fcmpush-aade8.firebaseio.com",
+    "project_id": "fcmpush-aade8",
+    "storage_bucket": "fcmpush-aade8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730095042449:android:45df943fbf549e8cb7a430",
+        "android_client_info": {
+          "package_name": "com.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730095042449-j3inoadsfc414te12n17j5eamqivu02f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVC5j-HD0wDb-JWX9vJl3ihvfZtjnMppU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730095042449-j3inoadsfc414te12n17j5eamqivu02f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730095042449:android:9a1dea4c11572ee2b7a430",
+        "android_client_info": {
+          "package_name": "com.tradingbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730095042449-j3inoadsfc414te12n17j5eamqivu02f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVC5j-HD0wDb-JWX9vJl3ihvfZtjnMppU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730095042449-j3inoadsfc414te12n17j5eamqivu02f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
